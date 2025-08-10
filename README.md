@@ -12,7 +12,8 @@ I'm the developer and maintainer of multiple OpenWrt packages focused on privacy
 | `luci-app-https-dns-proxy` | Web UI for `https-dns-proxy`                 | [Docs](https://docs.openwrt.melmac.ca/https-dns-proxy) · [Repo](https://github.com/stangri/luci-app-https-dns-proxy)                                                          |
 | `pbr`                      | Policy-based routing (WAN/VPN) with Web UI   | [Docs](https://docs.openwrt.melmac.ca/pbr) · [Repo](https://github.com/stangri/pbr) · [Releases](https://github.com/stangri/pbr/releases)                                     |
 | `luci-app-pbr`             | LuCI frontend for `pbr`                      | [Docs](https://docs.openwrt.melmac.ca/pbr) · [Repo](https://github.com/stangri/luci-app-pbr)                                                                                  |
-| `sunwait`                  | CLI tool for sunrise/sunset-based automation | [Repo](https://github.com/stangri/sunwait) · [Releases](https://github.com/stangri/sunwait/releases)                                                                          |
+| `luci-app-advanced-reboot` | Web UI for Advanced Reboot                   | [Docs](https://docs.openwrt.melmac.ca/luci-app-advanced-reboot) · [Repo](https://github.com/stangri/luci-app-advanced-reboot)                                                 |
+| `sunwait`                  | CLI tool for sunrise/sunset-based automation | [Docs](https://github.com/risacher/sunwait/blob/master/README.md) · [Repo](https://github.com/stangri/sunwait) · [Releases](https://github.com/stangri/sunwait/releases)      |
 
 More in [docs.openwrt.melmac.ca](https://docs.openwrt.melmac.ca)
 
