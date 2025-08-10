@@ -4,7 +4,7 @@ I'm the developer and maintainer of multiple OpenWrt packages focused on privacy
 
 ## My OpenWrt Packages
 
-| Package                    | Description                                  | Docs / Repo Links                                                                                                                                                             |
+| Package                    | Description                                  | Docs / Repo / Releases Links                                                                                                                                                  |
 | -------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `adblock-fast`             | Fast, lightweight DNS-based ad blocker       | [Docs](https://docs.openwrt.melmac.ca/adblock-fast) · [Repo](https://github.com/stangri/adblock-fast) · [Releases](https://github.com/stangri/adblock-fast/releases)          |
 | `luci-app-adblock-fast`    | Web UI for `adblock-fast`                    | [Docs](https://docs.openwrt.melmac.ca/adblock-fast) · [Repo](https://github.com/stangri/luci-app-adblock-fast)                                                                |
