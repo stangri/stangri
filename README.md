@@ -4,15 +4,15 @@ I'm the developer and maintainer of multiple OpenWrt packages focused on privacy
 
 ## My OpenWrt Packages
 
-| Package                    | Description                                  | Docs / Repo Links                                                                                           |
-| -------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| `adblock-fast`             | Fast, lightweight DNS-based ad blocker       | [Docs](https://docs.openwrt.melmac.ca/adblock-fast) · [Repo](https://github.com/stangri/adblock-fast)       |
-| `luci-app-adblock-fast`    | Web UI for `adblock-fast`                    | [Repo](https://github.com/stangri/luci-app-adblock-fast)                                                    |
-| `https-dns-proxy`          | DoH proxy for OpenWrt (RFC8484 compatible)   | [Docs](https://docs.openwrt.melmac.ca/https-dns-proxy) · [Repo](https://github.com/stangri/https-dns-proxy) |
-| `luci-app-https-dns-proxy` | Web UI for `https-dns-proxy`                 | [Repo](https://github.com/stangri/luci-app-https-dns-proxy)                                                 |
-| `pbr`                      | Policy-based routing (WAN/VPN) with Web UI   | [Docs](https://docs.openwrt.melmac.ca/pbr) · [Repo](https://github.com/stangri/pbr)                         |
-| `luci-app-pbr`             | LuCI frontend for `pbr`                      | [Repo](https://github.com/stangri/luci-app-pbr)                                                             |
-| `sunwait`                  | CLI tool for sunrise/sunset-based automation | [Repo](https://github.com/stangri/sunwait)                                                                  |
+| Package                    | Description                                  | Docs / Repo Links                                                                                                                                                             |
+| -------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `adblock-fast`             | Fast, lightweight DNS-based ad blocker       | [Docs](https://docs.openwrt.melmac.ca/adblock-fast) · [Repo](https://github.com/stangri/adblock-fast) · [Releases](https://github.com/stangri/adblock-fast/releases)          |
+| `luci-app-adblock-fast`    | Web UI for `adblock-fast`                    | [Docs](https://docs.openwrt.melmac.ca/adblock-fast) · [Repo](https://github.com/stangri/luci-app-adblock-fast)                                                                |
+| `https-dns-proxy`          | DoH proxy for OpenWrt (RFC8484 compatible)   | [Docs](https://docs.openwrt.melmac.ca/https-dns-proxy) · [Repo](https://github.com/stangri/https-dns-proxy) · [Releases](https://github.com/stangri/https-dns-proxy/releases) |
+| `luci-app-https-dns-proxy` | Web UI for `https-dns-proxy`                 | [Docs](https://docs.openwrt.melmac.ca/https-dns-proxy) · [Repo](https://github.com/stangri/luci-app-https-dns-proxy)                                                          |
+| `pbr`                      | Policy-based routing (WAN/VPN) with Web UI   | [Docs](https://docs.openwrt.melmac.ca/pbr) · [Repo](https://github.com/stangri/pbr) · [Releases](https://github.com/stangri/pbr/releases)                                     |
+| `luci-app-pbr`             | LuCI frontend for `pbr`                      | [Docs](https://docs.openwrt.melmac.ca/pbr) · [Repo](https://github.com/stangri/luci-app-pbr)                                                                                  |
+| `sunwait`                  | CLI tool for sunrise/sunset-based automation | [Repo](https://github.com/stangri/sunwait) · [Releases](https://github.com/stangri/sunwait/releases)                                                                          |
 
 More in [docs.openwrt.melmac.ca](https://docs.openwrt.melmac.ca)
 
