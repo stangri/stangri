@@ -26,5 +26,7 @@ More in [docs.openwrt.melmac.ca](https://docs.openwrt.melmac.ca)
 
 ## Support My Work
 
+If you like my work and/or use my packages in personal or professional environment, please know that your support is needed! You can financially support me at:
+
 - [GitHub Sponsors](https://github.com/sponsors/stangri)
 - [Ko-fi](https://ko-fi.com/stangri)
